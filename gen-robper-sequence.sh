@@ -11,7 +11,7 @@ freq=gamma
 touch sequece-rp.sh
 chmod u+x sequece-rp.sh
 
-touch all-rp.sh
+touch final-rp.sh
 chmod u+x final-rp.sh
 
 
